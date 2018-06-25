@@ -1,0 +1,14 @@
+{
+  "app.pageTitle": "Nova aba",
+  "dashboard.focusHint": "Oculta os Widgets",
+  "dashboard.fullscreenHint": "Tela cheia",
+  "dashboard.loadingHint": "Carregando novo conteúdo",
+  "dashboard.settingsHint": "Personalizar Tabliss",
+  "plugin.greeting.withName": "{hour, plural, =0 {Doces sonhos {name}} =1 {Doces sonhos {name}} =2 {Doces sonhos {name}} =3 {Doces sonhos {name}} =4 {Doces sonhos {name}} =5 {É muito cedo {name}} =6 {É hora de acordar {name}} =7 {Bom dia {name}} =8 {Bom dia {name}} =9 {Bom dia {name}} =10 {Bom dia {name}} =11 {Bom dia {name}} =12 {Olá {name}} =13 {Olá {name}} =14 {Boa tarde {name}} =15 {Boa tarde {name}} =16 {Boa tarde {name}} =17 {Boa tarde {name}} =18 {Boa tarde {name}} =19 {Boa tarde {name}} =20 {Boa noite {name}} =21 {Boa noite {name}} =22 {Boa noite {name}} =23 {Boa noite {name}}}",
+  "plugin.greeting.withoutName": "{hour, plural, =0 {Doces sonhos} =1 {Doces sonhos} =2 {Doces sonhos} =3 {Doces sonhos} =4 {Doces sonhos} =5 {É muito cedo} =6 {É hora de acorda} =7 {Bom dia} =8 {Bom dia} =9 {Bom dia} =10 {Bom dia} =11 {Bom dia} =12 {Olá} =13 {Olá} =14 {Boa tarde} =15 {Boa tarde} =16 {Boa tarde} =17 {Boa tarde} =18 {Boa tarde} =19 {Boa tarde} =20 {Boa noite} =21 {Boa noite} =22 {Boa noite} =23 {Boa noite}}",
+  "plugins.links.shortcutHint": "Pressione {number} ou clique para ir ao site",
+  "plugins.links.standardHint": "Clique para ir ao site",
+  "plugins.search.placeholder": "Digite aqui para pesquisar",
+  "plugins.unsplash.photoLink": "Foto",
+  "settings.translationCredits": "Brazilian Portuguese translation by Andrei Luiz Nenevê"
+}
